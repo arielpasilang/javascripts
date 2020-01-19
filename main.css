@@ -1,0 +1,36 @@
+header {
+	height: 80px;
+}
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: #eee;
+	padding: 50px;
+}
+
+input {
+	width: 700px;
+	padding: 12px 20px;
+	margin: 8px 5px;
+	box-sizing: border-box;
+	border-radius: 5px;
+	border: 1px solid green;
+}
+button,
+p {
+	padding: 12px 20px;
+	margin: 8px 5px;
+}
+.flex {
+	display: inline-flex;
+}
+
+h1 {
+	font-size: 64px;
+}
+h2 {
+	font-size: 48px;
+}
+small {
+	display: block;
+}
